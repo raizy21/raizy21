@@ -53,7 +53,7 @@ i am Andrei – a proud morning person coding in the shadows of private repos, s
 ## 🌐 let be internet friends
 
 [linkedin](https://www.linkedin.com/in/razvan-andrei-chiper/)  
-_portfolio coming soon... like, really soon... i promise._
+[portfolio](https://portfolio21andrei.netlify.app/)
 
 ---
 
