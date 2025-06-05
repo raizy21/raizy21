@@ -4,7 +4,7 @@
 
 # ☀️ good morning, world!
 
-i am Andrei – a proud morning person coding in the shadows of private repos, sipping ☕ while the rest of the dev world is still asleep.
+i am andrei – a proud morning person coding in the shadows of private repos, sipping coffee while the rest of the dev world is still asleep.
 
 ---
 
@@ -12,7 +12,6 @@ i am Andrei – a proud morning person coding in the shadows of private repos, s
 
 - 🛠️ i am an **amazonian** — fixing laptops by day, breaking code by night
 - 🌅 morning person – i rise with the sun and bugs still clinging to last night’s code
-- 👀 my repos may be private, but my ambition is not
 - ⌨️ still ca not type `addEventListener` without autocomplete (one day… maybe)
 - 🖱️ `ctrl+c`/`ctrl+v` is my preferred programming language
 - ✍️ _i hate capital letters. if you see one, it is probably a typo or shift key betrayal._
@@ -37,7 +36,6 @@ i am Andrei – a proud morning person coding in the shadows of private repos, s
 
 ## 🚧 what i am building
 
-- writing projects for my portfolio (that i swear will exist one day)
 - learning web development **seriously** this time
 - not sprinting back to react native (i made a promise… to myself and the bugs)
 
