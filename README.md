@@ -4,17 +4,7 @@
 
 # ☀️ good morning, world!
 
-i am andrei – a proud morning person coding in the shadows of private repos, sipping coffee while the rest of the dev world is still asleep.
-
----
-
-## 👤 who am i?
-
-- 🛠️ i am an **amazonian** — fixing laptops by day, breaking code by night
-- 🌅 morning person – i rise with the sun and bugs still clinging to last night’s code
-- ⌨️ still ca not type `addEventListener` without autocomplete (one day… maybe)
-- 🖱️ `ctrl+c`/`ctrl+v` is my preferred programming language
-- ✍️ _i hate capital letters. if you see one, it is probably a typo or shift key betrayal._
+i am andrei – a proud morning person and i like to code.
 
 ---
 
